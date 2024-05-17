@@ -1,0 +1,722 @@
+<html lang="pt-BR"><head>
+	<meta charset="UTF-8">
+		<title>HoneyBrasil</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="alternate" type="application/rss+xml" title="Feed para Honey Recife »" href="https://honeyrecife.shop/vitalhoney/?feed=rss2">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Honey Recife »" href="https://honeyrecife.shop/vitalhoney/?feed=comments-rss2">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/honeyrecife.shop\/vitalhoney\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.4"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-blue: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-blue: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-blue-color{color: var(--wp--preset--color--vivid-blue) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-blue-background-color{background-color: var(--wp--preset--color--vivid-blue) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-blue-border-color{border-color: var(--wp--preset--color--vivid-blue) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-blue-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-blue) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="hello-elementor-css" href="https://honeyrecife.shop/vitalhoney/wp-content/themes/hello-elementor/style.min.css?ver=3.0.0" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="https://honeyrecife.shop/vitalhoney/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.0" media="all">
+<link rel="stylesheet" id="hello-elementor-header-footer-css" href="https://honeyrecife.shop/vitalhoney/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.0" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.19.2" media="all">
+<link rel="stylesheet" id="elementor-post-15-css" href="https://honeyrecife.shop/vitalhoney/wp-content/uploads/elementor/css/post-15.css?ver=1708217147" media="all">
+<link rel="stylesheet" id="swiper-css" href="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://honeyrecife.shop/vitalhoney/wp-content/plugins/pro-elements/assets/css/frontend-lite.min.css?ver=3.18.1" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.19.2" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.19.2" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="https://honeyrecife.shop/vitalhoney/wp-content/uploads/elementor/css/global.css?ver=1708220073" media="all">
+<link rel="stylesheet" id="elementor-post-8-css" href="https://honeyrecife.shop/vitalhoney/wp-content/uploads/elementor/css/post-8.css?ver=1708346400" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.4.4" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.19.2" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://honeyrecife.shop/vitalhoney/index.php?rest_route=/"><link rel="alternate" type="application/json" href="https://honeyrecife.shop/vitalhoney/index.php?rest_route=/wp/v2/pages/8"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://honeyrecife.shop/vitalhoney/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.4">
+<link rel="canonical" href="https://honeyrecife.shop/vitalhoney/">
+<link rel="shortlink" href="https://honeyrecife.shop/vitalhoney/">
+<link rel="alternate" type="application/json+oembed" href="https://honeyrecife.shop/vitalhoney/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=https%3A%2F%2Fhoneyrecife.shop%2Fvitalhoney%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://honeyrecife.shop/vitalhoney/index.php?rest_route=%2Foembed%2F1.0%2Fembed&amp;url=https%3A%2F%2Fhoneyrecife.shop%2Fvitalhoney%2F&amp;format=xml">
+<meta name="generator" content="Elementor 3.19.2; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<link rel="icon" href="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2023/12/cropped-Inserir-um-titulo-32x32.png" sizes="32x32">
+<link rel="icon" href="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2023/12/cropped-Inserir-um-titulo-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2023/12/cropped-Inserir-um-titulo-180x180.png">
+<meta name="msapplication-TileImage" content="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2023/12/cropped-Inserir-um-titulo-270x270.png">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"><script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/wp-emoji-release.min.js?ver=6.4.4" defer=""></script></head>
+<body class="home page-template page-template-elementor_canvas page page-id-8 wp-custom-logo elementor-default elementor-template-canvas elementor-kit-15 elementor-page elementor-page-8 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="tablet">
+			<div data-elementor-type="wp-page" data-elementor-id="8" class="elementor elementor-8" data-elementor-post-type="page">
+				<div class="elementor-element elementor-element-a1b919f e-flex e-con-boxed e-con e-parent" data-id="a1b919f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-2f467be elementor-widget elementor-widget-heading" data-id="2f467be" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Frete Grátis para todo o Brasil</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f1d31e7 e-flex e-con-boxed e-con e-parent" data-id="f1d31e7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-38b77d7 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="38b77d7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="color: #ffffff;">Ative o seu </span><span style="color: #e00202;"><strong><span style="color: #ffffff;">máximo</span> <span style="color: #ffffff;">desempenho</span></strong></span> <span style="color: #c00000;"><span style="color: #ffffff;">com</span> vital honey</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5341995 elementor-widget__width-initial elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="5341995" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Mais energia e disposição para uma <strong>noite inteira de amor.</strong></p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-cf66f97 e-flex e-con-boxed e-con e-child" data-id="cf66f97" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-bbaa2f9 e-flex e-con-boxed e-con e-child" data-id="bbaa2f9" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d9fccfe elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="d9fccfe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="600" height="600" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome.png.webp" class="attachment-full size-full wp-image-41" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome.png.webp 600w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-150x150.png.webp 150w" sizes="(max-width: 600px) 100vw, 600px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-6a32893 elementor-align-left elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6a32893" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-battery-full" viewBox="0 0 640 512" xmlns="http://www.w3.org/2000/svg"><path d="M544 160v64h32v64h-32v64H64V160h480m16-64H48c-26.51 0-48 21.49-48 48v224c0 26.51 21.49 48 48 48h512c26.51 0 48-21.49 48-48v-16h8c13.255 0 24-10.745 24-24V184c0-13.255-10.745-24-24-24h-8v-16c0-26.51-21.49-48-48-48zm-48 96H96v128h416V192z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">aumento de ENERGIA</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-far-grin-hearts" viewBox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><path d="M353.6 304.6c-25.9 8.3-64.4 13.1-105.6 13.1s-79.6-4.8-105.6-13.1c-9.8-3.1-19.4 5.3-17.7 15.3 7.9 47.2 71.3 80 123.3 80s115.3-32.9 123.3-80c1.6-9.8-7.7-18.4-17.7-15.3zm-152.8-48.9c4.5 1.2 9.2-1.5 10.5-6l19.4-69.9c5.6-20.3-7.4-41.1-28.8-44.5-18.6-3-36.4 9.8-41.5 27.9l-2 7.1-7.1-1.9c-18.2-4.7-38.2 4.3-44.9 22-7.7 20.2 3.8 41.9 24.2 47.2l70.2 18.1zm188.8-65.3c-6.7-17.6-26.7-26.7-44.9-22l-7.1 1.9-2-7.1c-5-18.1-22.8-30.9-41.5-27.9-21.4 3.4-34.4 24.2-28.8 44.5l19.4 69.9c1.2 4.5 5.9 7.2 10.5 6l70.2-18.2c20.4-5.3 31.9-26.9 24.2-47.1zM248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 448c-110.3 0-200-89.7-200-200S137.7 56 248 56s200 89.7 200 200-89.7 200-200 200z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">Aumento da libido</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fab-hotjar" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M414.9 161.5C340.2 29 121.1 0 121.1 0S222.2 110.4 93 197.7C11.3 252.8-21 324.4 14 402.6c26.8 59.9 83.5 84.3 144.6 93.4-29.2-55.1-6.6-122.4-4.1-129.6 57.1 86.4 165 0 110.8-93.9 71 15.4 81.6 138.6 27.1 215.5 80.5-25.3 134.1-88.9 148.8-145.6 15.5-59.3 3.7-127.9-26.3-180.9z"></path></svg>						</span>
+										<span class="elementor-icon-list-text"> MAIS APETITE SEXUAL</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-pepper-hot" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M330.67 263.12V173.4l-52.75-24.22C219.44 218.76 197.58 400 56 400a56 56 0 0 0 0 112c212.64 0 370.65-122.87 419.18-210.34l-37.05-38.54zm131.09-128.37C493.92 74.91 477.18 26.48 458.62 3a8 8 0 0 0-11.93-.59l-22.9 23a8.06 8.06 0 0 0-.89 10.23c6.86 10.36 17.05 35.1-1.4 72.32A142.85 142.85 0 0 0 364.34 96c-28 0-54 8.54-76.34 22.59l74.67 34.29v78.24h89.09L506.44 288c3.26-12.62 5.56-25.63 5.56-39.31a154 154 0 0 0-50.24-113.94z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">MÁXIMO PRAZER</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-far-hourglass" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg"><path d="M368 48h4c6.627 0 12-5.373 12-12V12c0-6.627-5.373-12-12-12H12C5.373 0 0 5.373 0 12v24c0 6.627 5.373 12 12 12h4c0 80.564 32.188 165.807 97.18 208C47.899 298.381 16 383.9 16 464h-4c-6.627 0-12 5.373-12 12v24c0 6.627 5.373 12 12 12h360c6.627 0 12-5.373 12-12v-24c0-6.627-5.373-12-12-12h-4c0-80.564-32.188-165.807-97.18-208C336.102 213.619 368 128.1 368 48zM64 48h256c0 101.62-57.307 184-128 184S64 149.621 64 48zm256 416H64c0-101.62 57.308-184 128-184s128 82.38 128 184z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">48h de efeito </span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<svg aria-hidden="true" class="e-font-icon-svg e-fas-restroom" viewBox="0 0 640 512" xmlns="http://www.w3.org/2000/svg"><path d="M128 128c35.3 0 64-28.7 64-64S163.3 0 128 0 64 28.7 64 64s28.7 64 64 64zm384 0c35.3 0 64-28.7 64-64S547.3 0 512 0s-64 28.7-64 64 28.7 64 64 64zm127.3 226.5l-45.6-185.8c-3.3-13.5-15.5-23-29.8-24.2-15 9.7-32.8 15.5-52 15.5-19.2 0-37-5.8-52-15.5-14.3 1.2-26.5 10.7-29.8 24.2l-45.6 185.8C381 369.6 393 384 409.2 384H464v104c0 13.3 10.7 24 24 24h48c13.3 0 24-10.7 24-24V384h54.8c16.2 0 28.2-14.4 24.5-29.5zM336 0h-32c-8.8 0-16 7.2-16 16v480c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V16c0-8.8-7.2-16-16-16zM180.1 144.4c-15 9.8-32.9 15.6-52.1 15.6-19.2 0-37.1-5.8-52.1-15.6C51.3 146.5 32 166.9 32 192v136c0 13.3 10.7 24 24 24h8v136c0 13.3 10.7 24 24 24h80c13.3 0 24-10.7 24-24V352h8c13.3 0 24-10.7 24-24V192c0-25.1-19.3-45.5-43.9-47.6z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">para ele/ela</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-9ce3289 elementor-widget elementor-widget-button" data-id="9ce3289" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#ofertas">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR VITAL HONEY</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-19d65ca e-flex e-con-boxed e-con e-parent" data-id="19d65ca" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-558d65d e-con-full e-flex e-con e-child" data-id="558d65d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-844186e elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel e-widget-swiper" data-id="844186e" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay_speed&quot;:4000,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default" aria-roledescription="carousel" aria-label="Carrossel | Rolagem horizontal: Setas para esquerda e direita">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-image-carousel .swiper,.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure,.elementor-widget-image-carousel .swiper .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized):not(.swiper-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off" id="swiper-wrapper-c6e1738e56d1289d" style="transform: translate3d(-1616px, 0px, 0px); transition-duration: 0ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" role="group" aria-roledescription="slide" aria-label="4 / 4" data-swiper-slide-index="3" style="width: 404px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/445b0c36-5758-48ac-9c2e-c67669d9fdce1-02aef6fd55d4c464f116712300491075-1024-1024.png.webp" alt="445b0c36-5758-48ac-9c2e-c67669d9fdce1-02aef6fd55d4c464f116712300491075-1024-1024"></figure></div>
+								<div class="swiper-slide swiper-slide-duplicate-next" role="group" aria-roledescription="slide" aria-label="1 / 4" data-swiper-slide-index="0" style="width: 404px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/250c4540-9d9b-4327-95b9-61af3a6057fd1-8bc114377dec8b2ee216712300490500-1024-1024.webp" alt="250c4540-9d9b-4327-95b9-61af3a6057fd1-8bc114377dec8b2ee216712300490500-1024-1024"></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 / 4" data-swiper-slide-index="1" style="width: 404px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/a77b420e-a8f5-4a8e-b037-d3ad0690e1781-8183a0649c8304807616712300490355-640-0.png.webp" alt="a77b420e-a8f5-4a8e-b037-d3ad0690e1781-8183a0649c8304807616712300490355-640-0"></figure></div><div class="swiper-slide swiper-slide-prev" role="group" aria-roledescription="slide" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 404px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/61097555-714a-4deb-ae45-ead5b72608f41-6e0079ef6522df2faa16712300490740-640-0.png.webp" alt="61097555-714a-4deb-ae45-ead5b72608f41-6e0079ef6522df2faa16712300490740-640-0"></figure></div><div class="swiper-slide swiper-slide-active" role="group" aria-roledescription="slide" aria-label="4 / 4" data-swiper-slide-index="3" style="width: 404px;"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/445b0c36-5758-48ac-9c2e-c67669d9fdce1-02aef6fd55d4c464f116712300491075-1024-1024.png.webp" alt="445b0c36-5758-48ac-9c2e-c67669d9fdce1-02aef6fd55d4c464f116712300491075-1024-1024"></figure></div>			<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" role="group" aria-roledescription="slide" aria-label="1 / 4" data-swiper-slide-index="0" style="width: 404px;" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/250c4540-9d9b-4327-95b9-61af3a6057fd1-8bc114377dec8b2ee216712300490500-1024-1024.webp" alt="250c4540-9d9b-4327-95b9-61af3a6057fd1-8bc114377dec8b2ee216712300490500-1024-1024"></figure></div></div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Slide anterior" aria-controls="swiper-wrapper-c6e1738e56d1289d">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Próximo slide" aria-controls="swiper-wrapper-c6e1738e56d1289d">
+						<svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>					</div>
+				
+									<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" data-bullet-index="0" aria-label="Ir para o slide 1"></span><span class="swiper-pagination-bullet" data-bullet-index="1" aria-label="Ir para o slide 2"></span><span class="swiper-pagination-bullet" data-bullet-index="2" aria-label="Ir para o slide 3"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" data-bullet-index="3" aria-label="Ir para o slide 4" tabindex="0" aria-current="true"></span></div>
+									<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-164da2b e-con-full e-flex e-con e-child" data-id="164da2b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-5f41793 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="5f41793" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>O que é o <span style="color: #ffff00;"><strong>Vita Honey?</strong></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-8b79a93 elementor-widget elementor-widget-text-editor" data-id="8b79a93" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #ffffff;"><strong>Vita Honey é um produto único</strong></span> desenvolvido com ingredientes <span style="color: #ffffff;"><strong>100% naturais seguros e orgânicos</strong></span> usados para o <span style="color: #ffffff;"><strong>aumento da libido</strong></span>, aumento da energia corporal e apetite sexual.</p><p>O composto de Vita Honey é considerado o melhor para quem deseja retomar uma vida sexual saudável ou apimentar mais ainda a relação, seus <span style="color: #ffffff;"><strong>efeitos comprovados vem ajudando milhares</strong></span> de homens e mulheres no Brasil.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-98755f0 elementor-align-left elementor-widget elementor-widget-button" data-id="98755f0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#ofertas">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR VITAL HONEY</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-01fbd0a e-flex e-con-boxed e-con e-parent" data-id="01fbd0a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3d30538 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="3d30538" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Famosos que também já <span style="color: #ffff00;"><strong>provaram o melzinho</strong></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bf51ae6 elementor-widget elementor-widget-video" data-id="bf51ae6" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://drive.usercontent.google.com/download?id=1WKskDXmBg8u9w85Vc3OM9a0NBnulaQAa&amp;export=view&amp;authuser=0" controls="" preload="auto" controlslist="nodownload" poster="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/2024-02-18_08-59-1.png.webp"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-07f4e82 elementor-widget elementor-widget-video" data-id="07f4e82" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://drive.google.com/uc?export=view&amp;id=13HjZtRe1_RB0ZffRbjKB4mOsdnreicZ9" controls="" preload="auto" controlslist="nodownload" poster="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/2024-02-18_08-59-2.png.webp"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-90ccc9d elementor-align-left elementor-widget elementor-widget-button" data-id="90ccc9d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#ofertas">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR VITAL HONEY</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-e2718be e-flex e-con-boxed e-con e-parent" data-id="e2718be" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1067857 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="1067857" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Atenção Ingredientes naturais!</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-faa7678 e-flex e-con-boxed e-con e-child" data-id="faa7678" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5560519 e-flex e-con-boxed e-con e-child" data-id="5560519" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5dd89af elementor-widget elementor-widget-image" data-id="5dd89af" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="300" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/1-1.png.webp" class="attachment-large size-large wp-image-182" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/1-1.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/1-1-150x150.png.webp 150w" sizes="(max-width: 300px) 100vw, 300px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-7df070c elementor-widget elementor-widget-heading" data-id="7df070c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">96%
+Mel da montanha</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2afd821 e-flex e-con-boxed e-con e-child" data-id="2afd821" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6357d8e elementor-widget elementor-widget-image" data-id="6357d8e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="300" height="300" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/2-1.png.webp" class="attachment-large size-large wp-image-183" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/2-1.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/2-1-150x150.png.webp 150w" sizes="(max-width: 300px) 100vw, 300px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-25f602d elementor-widget elementor-widget-heading" data-id="25f602d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">1,5% Caviar em pó</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f67d0c8 e-flex e-con-boxed e-con e-child" data-id="f67d0c8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-cf92bef elementor-widget elementor-widget-image" data-id="cf92bef" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="300" height="300" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/3-1.png.webp" class="attachment-large size-large wp-image-184" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/3-1.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/3-1-150x150.png.webp 150w" sizes="(max-width: 300px) 100vw, 300px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-83ca697 elementor-widget elementor-widget-heading" data-id="83ca697" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">1,5% Raiz de Tongkat Ali</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8f303f1 e-flex e-con-boxed e-con e-child" data-id="8f303f1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e3a88e2 elementor-widget elementor-widget-image" data-id="e3a88e2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="300" height="300" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/4.png.webp" class="attachment-large size-large wp-image-185" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/4.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/4-150x150.png.webp 150w" sizes="(max-width: 300px) 100vw, 300px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-f699833 elementor-widget elementor-widget-heading" data-id="f699833" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">1,5% Canela em pó</h2>		</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-dd0649e e-flex e-con-boxed e-con e-parent" data-id="dd0649e" data-element_type="container" id="ofertas" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7fe5540 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="7fe5540" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ESCOLHA AGORA MESMO A MELHOR OFERTA PARA VOCÊ</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-366d574 elementor-widget elementor-widget-text-editor" data-id="366d574" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Frete grátis por tempo <span style="color: #b90000;"><strong>limitado</strong></span>!</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-95ba216 e-flex e-con-boxed e-con e-child" data-id="95ba216" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-47b73d2 e-flex e-con-boxed e-con e-child" data-id="47b73d2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e0151d3 elementor-widget elementor-widget-image" data-id="e0151d3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="600" height="600" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome.png.webp" class="attachment-large size-large wp-image-41" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome.png.webp 600w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-150x150.png.webp 150w" sizes="(max-width: 600px) 100vw, 600px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-1e3f8a2 elementor-widget elementor-widget-heading" data-id="1e3f8a2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">12 VITAL HONEY</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9a96770 elementor-widget elementor-widget-image" data-id="9a96770" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-8.png.webp" class="attachment-large size-large wp-image-291" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-8.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-8-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-ee52627 elementor-widget elementor-widget-heading" data-id="ee52627" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-14e85d0 elementor-align-center elementor-widget elementor-widget-button" data-id="14e85d0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f1c7651 elementor-widget elementor-widget-image" data-id="f1c7651" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f36529d e-flex e-con-boxed e-con e-child" data-id="f36529d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c0a1887 elementor-widget elementor-widget-image" data-id="c0a1887" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="800" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-1-1024x1024.png.webp" class="attachment-large size-large wp-image-261" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-1-1024x1024.png.webp 1024w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-1-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-1-150x150.png.webp 150w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-1-768x768.png.webp 768w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-1.png.webp 1080w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-bc30c91 elementor-widget elementor-widget-heading" data-id="bc30c91" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">8 VITAL HONEY</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-91764a5 elementor-widget elementor-widget-image" data-id="91764a5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-7.png.webp" class="attachment-large size-large wp-image-289" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-7.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-7-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-4d5adc4 elementor-widget elementor-widget-heading" data-id="4d5adc4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bc01d35 elementor-align-center elementor-widget elementor-widget-button" data-id="bc01d35" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c43fdc8 elementor-widget elementor-widget-image" data-id="c43fdc8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c1ce21a e-flex e-con-boxed e-con e-child" data-id="c1ce21a" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7c69714 elementor-widget elementor-widget-image" data-id="7c69714" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="800" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-2-1024x1024.png.webp" class="attachment-large size-large wp-image-268" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-2-1024x1024.png.webp 1024w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-2-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-2-150x150.png.webp 150w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-2-768x768.png.webp 768w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-2.png.webp 1080w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-119da55 elementor-widget elementor-widget-heading" data-id="119da55" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">4 VITAL HONEY</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-22fe861 elementor-widget elementor-widget-image" data-id="22fe861" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-6.png.webp" class="attachment-large size-large wp-image-285" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-6.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-6-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-872d100 elementor-widget elementor-widget-heading" data-id="872d100" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-811ec44 elementor-align-center elementor-widget elementor-widget-button" data-id="811ec44" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d2eff58 elementor-widget elementor-widget-image" data-id="d2eff58" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b02a376 e-flex e-con-boxed e-con e-child" data-id="b02a376" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5735d8b elementor-widget elementor-widget-image" data-id="5735d8b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="800" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-1-1024x1024.png.webp" class="attachment-large size-large wp-image-248" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-1-1024x1024.png.webp 1024w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-1-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-1-150x150.png.webp 150w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-1-768x768.png.webp 768w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/Design-sem-nome-1.png.webp 1080w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-0a1319d elementor-widget elementor-widget-heading" data-id="0a1319d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">2 VITAL HONEY</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0281df7 elementor-widget elementor-widget-image" data-id="0281df7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-5.png.webp" class="attachment-large size-large wp-image-281" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-5.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/compre-3-5-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-d1ba620 elementor-widget elementor-widget-heading" data-id="d1ba620" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c9b7d8 elementor-align-center elementor-widget elementor-widget-button" data-id="2c9b7d8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f90eaad elementor-widget elementor-widget-image" data-id="f90eaad" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a479d46 e-flex e-con-boxed e-con e-parent" data-id="a479d46" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-da107a4 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="da107a4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">
+
+			<p>Frete grátis por tempo <span style="color: #b90000;"><strong>limitado</strong></span>!</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-b6ac8e4 e-flex e-con-boxed e-con e-child" data-id="b6ac8e4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-0e60d9e e-flex e-con-boxed e-con e-child" data-id="0e60d9e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-8eb4f66 elementor-widget elementor-widget-image" data-id="8eb4f66" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="500" height="500" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__1_-removebg-preview.png.webp" class="attachment-large size-large wp-image-516" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__1_-removebg-preview.png.webp 500w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__1_-removebg-preview-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__1_-removebg-preview-150x150.png.webp 150w" sizes="(max-width: 500px) 100vw, 500px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-153aa52 elementor-widget elementor-widget-heading" data-id="153aa52" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">24 VITAL FEMININO</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-84f29c3 elementor-widget elementor-widget-image" data-id="84f29c3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__1_-removebg-preview.png.webp" class="attachment-large size-large wp-image-518" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__1_-removebg-preview.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__1_-removebg-preview-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-657520c elementor-widget elementor-widget-heading" data-id="657520c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c9ac3a elementor-align-center elementor-widget elementor-widget-button" data-id="2c9ac3a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b12aa7f elementor-widget elementor-widget-image" data-id="b12aa7f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2b11e56 e-flex e-con-boxed e-con e-child" data-id="2b11e56" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-aead3e6 elementor-widget elementor-widget-image" data-id="aead3e6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="500" height="500" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome-removebg-preview.png.webp" class="attachment-large size-large wp-image-514" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome-removebg-preview.png.webp 500w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome-removebg-preview-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome-removebg-preview-150x150.png.webp 150w" sizes="(max-width: 500px) 100vw, 500px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-bfdd3c7 elementor-widget elementor-widget-heading" data-id="bfdd3c7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">12 VITAL FEMININO</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e3601be elementor-widget elementor-widget-image" data-id="e3601be" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3-removebg-preview.png.webp" class="attachment-large size-large wp-image-517" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3-removebg-preview.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3-removebg-preview-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-bbe943c elementor-widget elementor-widget-heading" data-id="bbe943c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f60a575 elementor-align-center elementor-widget elementor-widget-button" data-id="f60a575" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-73a8067 elementor-widget elementor-widget-image" data-id="73a8067" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-055f7f0 e-flex e-con-boxed e-con e-child" data-id="055f7f0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-113d74c elementor-widget elementor-widget-image" data-id="113d74c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="500" height="500" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__3_-removebg-preview.png.webp" class="attachment-large size-large wp-image-550" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__3_-removebg-preview.png.webp 500w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__3_-removebg-preview-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__3_-removebg-preview-150x150.png.webp 150w" sizes="(max-width: 500px) 100vw, 500px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-d3eacb8 elementor-widget elementor-widget-heading" data-id="d3eacb8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">12 JAGUAR POWER</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d9f93c3 elementor-widget elementor-widget-image" data-id="d9f93c3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__2_-removebg-preview.png.webp" class="attachment-large size-large wp-image-560" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__2_-removebg-preview.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__2_-removebg-preview-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-7d869ce elementor-widget elementor-widget-heading" data-id="7d869ce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0b94d35 elementor-align-center elementor-widget elementor-widget-button" data-id="0b94d35" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9dec0fd elementor-widget elementor-widget-image" data-id="9dec0fd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a4b6e86 e-flex e-con-boxed e-con e-child" data-id="a4b6e86" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-af32ef2 elementor-widget elementor-widget-image" data-id="af32ef2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="500" height="500" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__4_-removebg-preview.png.webp" class="attachment-large size-large wp-image-564" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__4_-removebg-preview.png.webp 500w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__4_-removebg-preview-300x300.png.webp 300w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/Design_sem_nome__4_-removebg-preview-150x150.png.webp 150w" sizes="(max-width: 500px) 100vw, 500px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-4f1d5c8 elementor-widget elementor-widget-heading" data-id="4f1d5c8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">12 POWER HONEY</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d9754a7 elementor-widget elementor-widget-image" data-id="d9754a7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="400" height="200" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__3_-removebg-preview.png.webp" class="attachment-large size-large wp-image-568" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__3_-removebg-preview.png.webp 400w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/02/compre_3__3_-removebg-preview-300x150.png.webp 300w" sizes="(max-width: 400px) 100vw, 400px">													</div>
+				</div>
+				<div class="elementor-element elementor-element-0e585d3 elementor-widget elementor-widget-heading" data-id="0e585d3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">+ FRETE GRÁTIS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d0a8b9 elementor-align-center elementor-widget elementor-widget-button" data-id="1d0a8b9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://api.whatsapp.com/send?phone=5521980454218">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR AGORA</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-aa5d3b7 elementor-widget elementor-widget-image" data-id="aa5d3b7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="800" height="120" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp" class="attachment-large size-large wp-image-314" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura.webp 1000w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-300x45.webp 300w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Selos-Compra-Segura-768x115.webp 768w" sizes="(max-width: 800px) 100vw, 800px">													</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5d4b43f e-flex e-con-boxed e-con e-parent" data-id="5d4b43f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-85a9d32 elementor-widget elementor-widget-image" data-id="85a9d32" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="696" height="366" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/correiospacsedexlogo.webp" class="attachment-large size-large wp-image-418" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/correiospacsedexlogo.webp 696w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/correiospacsedexlogo-300x158.webp 300w" sizes="(max-width: 696px) 100vw, 696px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-41e4759 e-flex e-con-boxed e-con e-parent" data-id="41e4759" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-766de63 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="766de63" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">comprou e aprovou!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-407ec47 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel e-widget-swiper" data-id="407ec47" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default" aria-roledescription="carousel" aria-label="Carrossel | Rolagem horizontal: Setas para esquerda e direita">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off" id="swiper-wrapper-d4ed763dee0505fe" style="transform: translate3d(-1696px, 0px, 0px); transition-duration: 500ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" role="group" aria-roledescription="slide" aria-label="2 / 3" style="width: 424px;" aria-hidden="true" inert="" data-swiper-slide-index="1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/2.png.webp" alt="2"></figure></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" role="group" aria-roledescription="slide" aria-label="3 / 3" style="width: 424px;" data-swiper-slide-index="2" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/3.png.webp" alt="3"></figure></div>
+								<div class="swiper-slide swiper-slide-duplicate-next" role="group" aria-roledescription="slide" aria-label="1 / 3" style="width: 424px;" aria-hidden="true" inert="" data-swiper-slide-index="0"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/1.png.webp" alt="1"></figure></div><div class="swiper-slide swiper-slide-prev" role="group" aria-roledescription="slide" aria-label="2 / 3" style="width: 424px;" data-swiper-slide-index="1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/2.png.webp" alt="2"></figure></div><div class="swiper-slide swiper-slide-active" role="group" aria-roledescription="slide" aria-label="3 / 3" style="width: 424px;" data-swiper-slide-index="2"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/3.png.webp" alt="3"></figure></div>			<div class="swiper-slide swiper-slide-duplicate swiper-slide-next" role="group" aria-roledescription="slide" aria-label="1 / 3" style="width: 424px;" data-swiper-slide-index="0" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/1.png.webp" alt="1"></figure></div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" role="group" aria-roledescription="slide" aria-label="2 / 3" style="width: 424px;" data-swiper-slide-index="1" aria-hidden="true" inert=""><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/2.png.webp" alt="2"></figure></div></div>
+							
+									<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" data-bullet-index="0" aria-label="Ir para o slide 1"></span><span class="swiper-pagination-bullet" data-bullet-index="1" aria-label="Ir para o slide 2"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" data-bullet-index="2" aria-label="Ir para o slide 3" tabindex="0" aria-current="true"></span></div>
+									<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-94c6748 elementor-align-left elementor-widget elementor-widget-button" data-id="94c6748" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#ofertas">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">COMPRAR VITAL HONEY</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-080e804 e-flex e-con-boxed e-con e-parent" data-id="080e804" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ec65a06 elementor-widget elementor-widget-image" data-id="ec65a06" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://api.whatsapp.com/send?phone=5521980454218">
+							<img loading="lazy" decoding="async" width="332" height="110" src="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/chat-new-2.png.webp" class="elementor-animation-grow attachment-large size-large wp-image-429" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/chat-new-2.png.webp 332w,  https://honeyrecife.shop/vitalhoney/wp-content/webp-express/webp-images/uploads/2024/01/chat-new-2-300x99.png.webp 300w" sizes="(max-width: 332px) 100vw, 332px">								</a>
+													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-7d74720 e-flex e-con-boxed e-con e-parent" data-id="7d74720" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-a68a526 e-flex e-con-boxed e-con e-child" data-id="a68a526" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-d7c20d3 e-flex e-con-boxed e-con e-child" data-id="d7c20d3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-591adab elementor-widget elementor-widget-heading" data-id="591adab" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><div style="text-align: center;"><span style="text-align: var(--text-align); white-space: normal;"><font color="#2a2a2a" face="Poppins, sans-serif">COMPRA 100% SEGURA</font></span></div></h2><h2 class="elementor-heading-title elementor-size-default" style="color: rgb(42, 42, 42); font-family: Poppins, sans-serif; font-weight: 700; font-size: 1em; text-align: center; white-space: normal;"></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7f415b8 elementor-widget elementor-widget-image" data-id="7f415b8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="350" height="163" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Compra-Segura-Banner-Rodape.webp" class="attachment-large size-large wp-image-440" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Compra-Segura-Banner-Rodape.webp 350w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/Compra-Segura-Banner-Rodape-300x140.webp 300w" sizes="(max-width: 350px) 100vw, 350px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-3171b3f e-flex e-con-boxed e-con e-child" data-id="3171b3f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-42f2507 elementor-widget elementor-widget-heading" data-id="42f2507" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><div style="text-align: center;"><span style="text-align: var(--text-align); white-space: normal;"><font color="#2a2a2a" face="Poppins, sans-serif">COMPRA 100% SEGURA</font></span></div></h2><h2 class="elementor-heading-title elementor-size-default" style="color: rgb(42, 42, 42); font-family: Poppins, sans-serif; font-weight: 700; font-size: 1em; text-align: center; white-space: normal;"></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c5e3456 elementor-widget elementor-widget-image" data-id="c5e3456" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="750" height="234" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/2207161338090.webp" class="attachment-large size-large wp-image-441" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/2207161338090.webp 750w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/2207161338090-300x94.webp 300w" sizes="(max-width: 750px) 100vw, 750px">													</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2ee0b92 e-flex e-con-boxed e-con e-child" data-id="2ee0b92" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f0c1c74 elementor-widget elementor-widget-heading" data-id="f0c1c74" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><div style="text-align: center;"><span style="text-align: var(--text-align); white-space: normal;"><font color="#2a2a2a" face="Poppins, sans-serif">COMPRA 100% SEGURA</font></span></div></h2><h2 class="elementor-heading-title elementor-size-default" style="color: rgb(42, 42, 42); font-family: Poppins, sans-serif; font-weight: 700; font-size: 1em; text-align: center; white-space: normal;"></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0a7a0fa elementor-widget elementor-widget-image" data-id="0a7a0fa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img loading="lazy" decoding="async" width="696" height="366" src="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/correiospacsedexlogo.webp" class="attachment-large size-large wp-image-418" alt="" srcset="https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/correiospacsedexlogo.webp 696w,   https://honeyrecife.shop/vitalhoney/wp-content/uploads/2024/01/correiospacsedexlogo-300x158.webp 300w" sizes="(max-width: 696px) 100vw, 696px">													</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1836306 e-flex e-con-boxed e-con e-parent" data-id="1836306" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7183b0d elementor-widget elementor-widget-heading" data-id="7183b0d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">© 2023 Honey Brasil. Todos os direitos reservados.</h2>		</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<link rel="stylesheet" id="e-animations-css" href="https://honeyBrasil.shop/vitalhoney/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.19.2" media="all">
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.0" id="hello-theme-frontend-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.18.1" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.19.2" id="elementor-webpack-runtime-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.19.2" id="elementor-frontend-modules-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/honeyrecife.shop\/vitalhoney\/wp-admin\/admin-ajax.php","nonce":"2a0a42b5d0","urls":{"assets":"https:\/\/honeyrecife.shop\/vitalhoney\/wp-content\/plugins\/pro-elements\/assets\/","rest":"https:\/\/honeyrecife.shop\/vitalhoney\/index.php?rest_route=\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/honeyrecife.shop\/vitalhoney\/wp-content\/plugins\/pro-elements\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.18.1" id="elementor-pro-frontend-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselWrapperAriaLabel":"Carrossel | Rolagem horizontal: Setas para esquerda e direita","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.19.2","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/honeyrecife.shop\/vitalhoney\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_footer_logo_type":"logo"},"post":{"id":8,"title":"Honey%20Recife","excerpt":"","featuredImage":false}};
+</script>
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.19.2" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script src="https://honeyrecife.shop/vitalhoney/wp-content/plugins/pro-elements/assets/js/elements-handlers.min.js?ver=3.18.1" id="pro-elements-handlers-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+	
+
+
+<script src="https://honeyBrasil.shop/vitalhoney/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5"></script></body></html>
